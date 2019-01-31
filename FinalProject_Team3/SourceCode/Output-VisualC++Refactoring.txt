@@ -1,0 +1,11 @@
+﻿
+Renamed 'randomWait' to 'needToWait':
+-------------------------------------
+c:\Users\a00966003\Desktop\Assignment1_actually_working_simon\Physical.cpp(425, 7)
+c:\Users\a00966003\Desktop\Assignment1_actually_working_simon\Physical.cpp(433, 7)
+c:\Users\a00966003\Desktop\Assignment1_actually_working_simon\Physical.cpp(434, 4)
+c:\Users\a00966003\Desktop\Assignment1_actually_working_simon\Physical.cpp(463, 4)
+
+Renamed 'rndmwt' to 'randomWait':
+---------------------------------
+c:\Users\a00966003\Desktop\Assignment1_actually_working_simon\Physical.cpp(438, 8)

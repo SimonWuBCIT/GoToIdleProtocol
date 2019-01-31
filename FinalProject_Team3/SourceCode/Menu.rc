@@ -1,0 +1,8 @@
+#include "menu.h"
+
+COMMENU MENU
+{
+	MENUITEM "&UPLOAD", IDM_UPLOAD
+	MENUITEM "&Help", IDM_HELP
+	MENUITEM "&Exit", IDM_EXIT
+}

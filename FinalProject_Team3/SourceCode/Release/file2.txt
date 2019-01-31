@@ -1,0 +1,325 @@
+: 109
+Character Reciieved: 32
+Character Reciieved: 117
+8
+Character Reciieved: 114
+Character Reciieved: 110
+Character Reciieved: 97
+Character Reciieved: 46
+Character Reciieved: 32
+Character Reciieved: 78
+Character Reciieved: 117
+Character Reciieved: 108
+8
+Character Reciieved: 108
+Character Reciieved: 97
+Character Reciieved: 109
+Character Reciieved: 32
+Character Reciieved: 118
+Character Reciieved: 101
+Character Reciieved: 104
+Character Reciieved: 105
+8
+Character Reciieved: 99
+Character Reciieved: 117
+Character Reciieved: 108
+Character Reciieved: 97
+Character Reciieved: 32
+Character Reciieved: 98
+Character Reciieved: 105
+Character Reciieved: 98
+8
+Character Reciieved: 101
+Character Reciieved: 110
+Character Reciieved: 100
+Character Reciieved: 117
+Character Reciieved: 109
+Character Reciieved: 32
+Character Reciieved: 112
+Character Reciieved: 117
+8
+Character Reciieved: 108
+Character Reciieved: 118
+Character Reciieved: 105
+Character Reciieved: 110
+Character Reciieved: 97
+Character Reciieved: 114
+Character Reciieved: 46
+Character Reciieved: 32
+8
+Character Reciieved: 77
+Character Reciieved: 97
+Character Reciieved: 117
+Character Reciieved: 114
+Character Reciieved: 105
+Character Reciieved: 115
+Character Reciieved: 32
+Character Reciieved: 112
+8
+Character Reciieved: 108
+Character Reciieved: 97
+Character Reciieved: 99
+Character Reciieved: 101
+Character Reciieved: 114
+Character Reciieved: 97
+Character Reciieved: 116
+Character Reciieved: 32
+8
+Character Reciieved: 115
+Character Reciieved: 97
+Character Reciieved: 112
+Character Reciieved: 105
+Character Reciieved: 101
+Character Reciieved: 110
+Character Reciieved: 32
+Character Reciieved: 115
+8
+Character Reciieved: 101
+Character Reciieved: 100
+Character Reciieved: 32
+Character Reciieved: 101
+Character Reciieved: 117
+Character Reciieved: 105
+Character Reciieved: 115
+Character Reciieved: 109
+8
+Character Reciieved: 111
+Character Reciieved: 100
+Character Reciieved: 32
+Character Reciieved: 100
+Character Reciieved: 105
+Character Reciieved: 99
+Character Reciieved: 116
+Character Reciieved: 117
+8
+Character Reciieved: 109
+Character Reciieved: 46
+Character Reciieved: 32
+Character Reciieved: 85
+Character Reciieved: 116
+Character Reciieved: 32
+Character Reciieved: 97
+Character Reciieved: 99
+8
+Character Reciieved: 32
+Character Reciieved: 117
+Character Reciieved: 114
+Character Reciieved: 110
+Character Reciieved: 97
+Character Reciieved: 32
+Character Reciieved: 100
+Character Reciieved: 111
+8
+Character Reciieved: 108
+Character Reciieved: 111
+Character Reciieved: 114
+Character Reciieved: 46
+Character Reciieved: 32
+Character Reciieved: 73
+Character Reciieved: 110
+Character Reciieved: 116
+8
+Character Reciieved: 101
+Character Reciieved: 103
+Character Reciieved: 101
+Character Reciieved: 114
+Character Reciieved: 32
+Character Reciieved: 112
+Character Reciieved: 108
+Character Reciieved: 97
+8
+Character Reciieved: 99
+Character Reciieved: 101
+Character Reciieved: 114
+Character Reciieved: 97
+Character Reciieved: 116
+Character Reciieved: 32
+Character Reciieved: 109
+Character Reciieved: 97
+8
+Character Reciieved: 103
+Character Reciieved: 110
+Character Reciieved: 97
+Character Reciieved: 32
+Character Reciieved: 118
+Character Reciieved: 111
+Character Reciieved: 108
+Character Reciieved: 117
+8
+Character Reciieved: 116
+Character Reciieved: 112
+Character Reciieved: 97
+Character Reciieved: 116
+Character Reciieved: 32
+Character Reciieved: 115
+Character Reciieved: 99
+Character Reciieved: 101
+8
+Character Reciieved: 108
+Character Reciieved: 101
+Character Reciieved: 114
+Character Reciieved: 105
+Character Reciieved: 115
+Character Reciieved: 113
+Character Reciieved: 117
+Character Reciieved: 101
+8
+Character Reciieved: 32
+Character Reciieved: 97
+Character Reciieved: 99
+Character Reciieved: 99
+Character Reciieved: 117
+Character Reciieved: 109
+Character Reciieved: 115
+Character Reciieved: 97
+8
+Character Reciieved: 110
+Character Reciieved: 46
+Character Reciieved: 32
+Character Reciieved: 67
+Character Reciieved: 117
+Character Reciieved: 114
+Character Reciieved: 97
+Character Reciieved: 98
+8
+Character Reciieved: 105
+Character Reciieved: 116
+Character Reciieved: 117
+Character Reciieved: 114
+Character Reciieved: 32
+Character Reciieved: 108
+Character Reciieved: 97
+Character Reciieved: 111
+8
+Character Reciieved: 114
+Character Reciieved: 101
+Character Reciieved: 101
+Character Reciieved: 116
+Character Reciieved: 44
+Character Reciieved: 32
+Character Reciieved: 101
+Character Reciieved: 114
+8
+Character Reciieved: 111
+Character Reciieved: 115
+Character Reciieved: 32
+Character Reciieved: 117
+Character Reciieved: 116
+Character Reciieved: 32
+Character Reciieved: 112
+Character Reciieved: 111
+8
+Character Reciieved: 114
+Character Reciieved: 116
+Character Reciieved: 97
+Character Reciieved: 32
+Character Reciieved: 97
+Character Reciieved: 117
+Character Reciieved: 99
+Character Reciieved: 116
+8
+Character Reciieved: 111
+Character Reciieved: 114
+Character Reciieved: 44
+Character Reciieved: 32
+Character Reciieved: 102
+Character Reciieved: 101
+Character Reciieved: 108
+Character Reciieved: 105
+8
+Character Reciieved: 115
+Character Reciieved: 32
+Character Reciieved: 110
+Character Reciieved: 117
+Character Reciieved: 108
+Character Reciieved: 108
+Character Reciieved: 97
+Character Reciieved: 32
+8
+Character Reciieved: 112
+Character Reciieved: 111
+Character Reciieved: 115
+Character Reciieved: 117
+Character Reciieved: 101
+Character Reciieved: 114
+Character Reciieved: 101
+Character Reciieved: 32
+8
+Character Reciieved: 101
+Character Reciieved: 110
+Character Reciieved: 105
+Character Reciieved: 109
+Character Reciieved: 44
+Character Reciieved: 32
+Character Reciieved: 117
+Character Reciieved: 116
+8
+Character Reciieved: 32
+Character Reciieved: 111
+Character Reciieved: 114
+Character Reciieved: 110
+Character Reciieved: 97
+Character Reciieved: 114
+Character Reciieved: 101
+Character Reciieved: 32
+8
+Character Reciieved: 105
+Character Reciieved: 112
+Character Reciieved: 115
+Character Reciieved: 117
+Character Reciieved: 109
+Character Reciieved: 32
+Character Reciieved: 115
+Character Reciieved: 97
+8
+Character Reciieved: 112
+Character Reciieved: 105
+Character Reciieved: 101
+Character Reciieved: 110
+Character Reciieved: 32
+Character Reciieved: 113
+Character Reciieved: 117
+Character Reciieved: 105
+2
+Character Reciieved: 115
+Character Reciieved: 32
+8
+Character Reciieved: 108
+Character Reciieved: 105
+Character Reciieved: 103
+Character Reciieved: 117
+Character Reciieved: 108
+Character Reciieved: 97
+Character Reciieved: 46
+Character Reciieved: 32
+8
+Character Reciieved: 69
+Character Reciieved: 116
+Character Reciieved: 105
+Character Reciieved: 97
+Character Reciieved: 109
+Character Reciieved: 32
+Character Reciieved: 114
+Character Reciieved: 117
+8
+Character Reciieved: 116
+Character Reciieved: 114
+Character Reciieved: 117
+Character Reciieved: 109
+Character Reciieved: 32
+Character Reciieved: 116
+Character Reciieved: 117
+Character Reciieved: 114
+8
+Character Reciieved: 112
+Character Reciieved: 105
+Character Reciieved: 115
+Character Reciieved: 32
+Character Reciieved: 101
+Character Reciieved: 116
+Character Reciieved: 32
+Character Reciieved: 102
+8
+Character Reciieved: 114
+Character Reciieved: 105
+Character Re<<<FILE TRANSFER INTERRUPTED>>

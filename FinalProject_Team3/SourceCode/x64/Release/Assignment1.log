@@ -1,0 +1,10 @@
+﻿  Application.cpp
+c:\users\administrator\desktop\assignment1_actually_working_simon\application.cpp(454): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  DataLink.cpp
+c:\users\administrator\desktop\assignment1_actually_working_simon\datalink.cpp(57): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Physical.cpp
+c:\users\administrator\desktop\assignment1_actually_working_simon\physical.cpp(588): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  PrintUtils.cpp
+c:\users\administrator\desktop\assignment1_actually_working_simon\printutils.cpp(28): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Session.cpp
+c:\users\administrator\desktop\assignment1_actually_working_simon\session.cpp(209): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
